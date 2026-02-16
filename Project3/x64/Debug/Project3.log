@@ -1,0 +1,9 @@
+﻿  motor.cpp
+C:\Users\14045\source\repos\Project3\Project3\motor.cpp(23,20): error C3861: “sum”: 找不到标识符
+      C:\Users\14045\source\repos\Project3\Project3\motor.cpp(23,20):
+      模板实例化上下文(最早的实例化上下文)为
+          C:\Users\14045\source\repos\Project3\Project3\motor.cpp(4,8):
+          在编译类模板“LimitValue”时
+  
+C:\Users\14045\source\repos\Project3\Project3\motor.cpp(23,20): error C2065: “sum”: 未声明的标识符
+C:\Users\14045\source\repos\Project3\Project3\motor.cpp(34,2): error C2760: 语法错误: 此处出现意外的“}”；应为“;”
